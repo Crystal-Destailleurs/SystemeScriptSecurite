@@ -1,0 +1,3 @@
+[submodule "SystemeScriptSecurite"]
+	path = SystemeScriptSecurite
+	url = https://github.com/alexander-doumec/SystemeScriptSecurite.git
